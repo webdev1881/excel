@@ -1,5 +1,6 @@
 
 console.log('jQuery is working');
+$( "div" ).first().remove()
 
 
 
